@@ -1,4 +1,5 @@
 ---
+title: 首页
 home: true
 heroText: Nightcord API
 tagline: 简洁易用的 Project Sekai API
