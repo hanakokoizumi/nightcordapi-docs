@@ -17,7 +17,3 @@ features:
   details: 可查询原汁原味的个人资料信息
 footer: Hanako 2022
 ---
-
-> 当前 nightcord.de 正处于维护模式，预计 12 小时内恢复。
-
-> 今より nightcord.de はメンテナンス状態になります。12 時間以内に再開される予定です。しばらくお待ちください。
